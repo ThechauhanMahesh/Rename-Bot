@@ -14,7 +14,7 @@ logging.basicConfig(
 class Config(object):
     API_ID = 2992000
     API_HASH = "235b12e862d71234ea222082052822fd"
-    BOT_TOKEN = "5832484897:AAF6qiaK61WF1vJWZxUTDov1g0z4YJ-UhGk"
+    BOT_TOKEN = "6071286747:AAGw8ZfKZk6Gx0s4qwlIaBaPgL6rMYi4SVo"
     DOWNLOAD_DIR = "./downloads"
     LOGGER = logging
     OWNER_ID = 5351121397
